@@ -2,6 +2,7 @@
 """naofumi
 apple
 """
-n=6
+n=101
 for i in range (n):
-    print(i)
+    if i%10==0 and i!=0:
+        print(i)
