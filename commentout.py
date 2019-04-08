@@ -12,3 +12,4 @@ if n % 3 == 0 and n != 0 :
         print('True')
 else:
         print('False')
+#end
